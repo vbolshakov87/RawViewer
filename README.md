@@ -20,7 +20,7 @@ It has the familiar Preview-style window: thumbnails on the left, the image in t
 **Build from source:** you need the Xcode Command Line Tools (`xcode-select --install`). Full Xcode is not required.
 
 ```sh
-git clone https://github.com/<you>/RawViewer.git
+git clone https://github.com/vbolshakov87/RawViewer.git
 cd RawViewer
 make install      # builds and copies RawViewer.app into /Applications
 ```
